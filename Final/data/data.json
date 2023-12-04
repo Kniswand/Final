@@ -1,0 +1,34 @@
+{
+    "Products": [
+      {
+        "productName": "camera one",
+        "productImage": "1.jpg",
+        "productShortDesc": "This is a great camera",
+        "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+        "productPrice": "19.99"
+      },
+      {
+        "productName": "camera two",
+        "productImage": "2.jpg",
+        "productShortDesc": "This is a great camera",
+        "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+        "productPrice": "19.99"
+      },
+      {
+        "productName": "camera three",
+        "productImage": "3.jpg",
+        "productShortDesc": "This is a great camera",
+        "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+        "productPrice": "19.99"
+      },
+      {
+        "productName": "camera four",
+        "productImage": "4.jpg",
+        "productShortDesc": "This is a great camera",
+        "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+        "productPrice": "19.99"
+      }
+    ],
+    "Cart": []
+  }
+  

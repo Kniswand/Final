@@ -1,0 +1,160 @@
+*{
+    font-family: sans-serif;
+}
+
+.top{
+    background-color: #405c7c;
+    color:white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+    button{
+        background-color: #405c7c;
+        color:white;
+        border: none;
+    }
+    margin-bottom: -5px;
+}
+
+.cartCounter{
+    font-size: small;
+    background-color: black;
+    color:white;
+    border-radius: 100%;
+    padding:5px;
+    margin-left: 5px;
+    margin-top: -10px;
+    display: flex;
+}
+
+.cartIcon{
+    display: flex;
+    margin-top: 5px;
+}
+
+nav{
+    height: 50px;
+    background-color: #f0ece4;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color:black;
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    input{
+        height: 25px;
+        width: 300px;
+        border-radius: 25px;
+        background-color: #f3f3f3;
+        padding-left: 12px;
+    };
+    margin-bottom: 16px;
+    p{
+        margin-left: -140px;
+    }
+}
+
+.banner{
+    width:90%;
+    display: block;
+    margin: auto;
+    margin-bottom: 16px;
+}
+
+.holder{
+    width: 90%;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    padding-bottom: 16px;
+}
+
+img{
+    width: 200px;
+}
+
+.product{
+    width: 200px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: black 2px solid;
+}
+
+.price{
+    color:red;
+    font-weight: bold;
+}
+
+.star{
+    color:#f6c807    ;
+    font-weight: bold;
+}
+
+.buyNow{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 20px;
+    color:black;
+    border: #f8bc4c solid 2px;
+}
+
+footer{
+    background-color: #402c2c;
+    color:white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+span{
+    cursor: pointer;
+}
+
+#modal{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+}
+
+#modal2{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+}
+
+.content{
+    background-color: white;
+    width: 20%;
+    padding: 5px;
+    margin: 15% auto;
+    border-radius: 5%;
+    text-align: center;
+    button{
+        background-color: #402c2c;
+        color: white;
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+    }
+}
